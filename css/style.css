@@ -21,7 +21,7 @@ header{
 .menu ul li a{
     font-size: 22px;
     font-weight: 700;
-    padding: 0 30px !important;
+    padding: 0 40px !important;
     transform: 0.3s;
 }
 
@@ -36,7 +36,52 @@ header{
 /* slider starts */
 .slider{
     background-color: #fcdb00;
+    padding: 50px 0 100px 0;
 }
-.slider_content{}
-.slider_img{}
+
+.slider_content {
+    margin: 65px 0 0 20px;
+}
+
+.slider_content h1{
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.slider_content h2{
+    font-weight: 400;
+    font-size: 20px;
+    color: #313841;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin: 20px 0;
+}
+
+.slider_content p{
+    color: #555555;
+    word-spacing: 1px;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+.slider_icon{
+    font-size: 40px;
+}
+
+.slider_icon li{
+    margin-right: 30px !important;
+}
+.slider_img{
+
+}
+
+.c_indicator {
+    bottom: -80px;
+}
+
+.c_indicator li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
 /* slider ends */
