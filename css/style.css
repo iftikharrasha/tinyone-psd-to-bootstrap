@@ -130,4 +130,52 @@ header{
     padding: 100px 0;
     background-color: #010101;
 }
+
+.n_title {
+    color: #fcdb00;
+}
+
+.n_para {
+    color: #898989;
+}
+
+.n_form {
+    margin-top: 40px;
+}
+
+.n_input {
+    height: 50px;
+}
+
+.btn_submit {
+    width: 100%;
+    height: 50px;
+    background-color: #fcdb00;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 200ms ease-in-out;
+}
+
+.social_icon {
+    margin-top: 75px;
+}
+
+.social_icon i {
+    font-size: 42px;
+    margin: 0 15px;
+    color: #fcdb00;
+    transition: 200ms ease-in-out;
+}
 /* newsletter ends */
+
+/* footer starts */
+.footer {
+    padding: 35px 0 100px 0;
+    background-color: #010101;
+    color: white;
+}
+
+.footer_content p {
+    line-height: 22px;
+}
+/* footer ends */
