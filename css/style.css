@@ -36,7 +36,7 @@ header{
 /* slider starts */
 .slider{
     background-color: #fcdb00;
-    padding: 50px 0 100px 0;
+    padding: 20px 0 100px 0;
 }
 
 .slider_content {
@@ -71,6 +71,7 @@ header{
 .slider_icon li{
     margin-right: 30px !important;
 }
+
 .slider_img{
 
 }
@@ -85,3 +86,48 @@ header{
     border-radius: 50%;
 }
 /* slider ends */
+/* feature starts */
+.features{
+    padding: 100px 0;
+}
+
+.c_title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #010101;
+    margin-bottom: 18px;
+}
+
+.c_para {
+    font-size: 20px;
+    color: #313841;
+    line-height: 22px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.f_title{
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.f_text{
+    color: #555555;
+}
+
+.f_single_item {
+    margin-top: 80px;
+}
+
+.f_icon i {
+    font-size: 50px;
+    color: #010101;
+    margin-top: 6px;
+}
+/* feature ends */
+/* newsletter starts */
+.newsletter {
+    padding: 100px 0;
+    background-color: #010101;
+}
+/* newsletter ends */
