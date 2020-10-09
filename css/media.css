@@ -5,6 +5,59 @@
         padding: 0 0px !important;
         text-align: right;
     }
+
+    .slider_img {
+        display: none;
+    }
+
+    .slider_content {
+        margin: 0px 0 0 20px;
+    }
+
+    .slider_content h1 {
+        font-size: 26px;
+    }
+
+    .slider_content h2 {
+        font-size: 18px;
+    }
+
+    .c_title {
+        font-size: 26px;
+    }
+
+    .c_para {
+        font-size: 18px;
+    }
+
+    .features {
+        padding: 50px 0;
+    }
+
+    .f_single_item {
+        margin-top: 40px;
+    }
+
+    .newsletter {
+        padding: 50px 0;
+    }
+
+    .n_input {
+        height: 40px;
+    }
+
+    .btn_submit {
+        width: 40%;
+        height: 40px;
+        margin-top: 10px;
+    }
+
+    .social_icon i:hover{
+        transform: rotateZ(90deg);
+        color: white;
+        padding-left: 0px;
+    }
+
     /* header ends */
 }
 

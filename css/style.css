@@ -72,6 +72,14 @@ header{
     margin-right: 30px !important;
 }
 
+.slider_icon li i:hover{
+    cursor: pointer;
+}
+
+.slider_icon li i:hover{
+    transform: rotateZ(90deg);
+}
+
 .slider_img{
 
 }
@@ -121,8 +129,6 @@ header{
 
 .f_icon i {
     font-size: 50px;
-    color: #010101;
-    margin-top: 6px;
 }
 /* feature ends */
 /* newsletter starts */
@@ -156,6 +162,11 @@ header{
     transition: all 200ms ease-in-out;
 }
 
+.btn_submit:hover{
+    background-color: white;
+    padding-left: 20px;
+}
+
 .social_icon {
     margin-top: 75px;
 }
@@ -165,6 +176,12 @@ header{
     margin: 0 15px;
     color: #fcdb00;
     transition: 200ms ease-in-out;
+}
+
+.social_icon i:hover{
+    transform: rotateZ(90deg);
+    color: white;
+    padding-left: 20px;
 }
 /* newsletter ends */
 
